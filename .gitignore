@@ -1,6 +1,3 @@
-*.pp_c
-*.asm
-*.o
-*.e
+
 *~
 .DS_Store
